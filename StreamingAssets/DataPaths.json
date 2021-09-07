@@ -1,22 +1,22 @@
 {
 	"Graphics":[
-		"#Vanilla/Graphics/Icon_Bar.png",
-		"#Vanilla/Graphics/Icon_Toilet.png"
+		"Vanilla/Graphics/Icon_Bar.png",
+		"Vanilla/Graphics/Icon_Toilet.png"
 	],
 	"Artwork_Images":[
-		"#Vanilla/Artworks/TestArt0.jpg",
-		"#Vanilla/Artworks/TestArt1.jpg",
-		"#Vanilla/Artworks/TestArt2.jpg",
-		"#Vanilla/Artworks/TestArt3.jpg",
-		"#Vanilla/Artworks/TestArt4.jpg",
-		"#Vanilla/Artworks/TestArt5.jpg"
+		"Vanilla/Artworks/TestArt0.jpg",
+		"Vanilla/Artworks/TestArt1.jpg",
+		"Vanilla/Artworks/TestArt2.jpg",
+		"Vanilla/Artworks/TestArt3.jpg",
+		"Vanilla/Artworks/TestArt4.jpg",
+		"Vanilla/Artworks/TestArt5.jpg"
 	],
 	"Artwork_MetaData":[
-		"#Vanilla/Artworks/TestArt0.json",
-		"#Vanilla/Artworks/TestArt1.json",
-		"#Vanilla/Artworks/TestArt2.json",
-		"#Vanilla/Artworks/TestArt3.json",
-		"#Vanilla/Artworks/TestArt4.json",
-		"#Vanilla/Artworks/TestArt5.json"
+		"Vanilla/Artworks/TestArt0.json",
+		"Vanilla/Artworks/TestArt1.json",
+		"Vanilla/Artworks/TestArt2.json",
+		"Vanilla/Artworks/TestArt3.json",
+		"Vanilla/Artworks/TestArt4.json",
+		"Vanilla/Artworks/TestArt5.json"
 	]
 }
